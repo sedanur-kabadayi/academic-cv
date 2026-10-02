@@ -42,6 +42,7 @@ sections:
     design:
       columns: '1'
   - block: resume-experience
+    id: experience
     content:
       username: me
     design:
