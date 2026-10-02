@@ -34,16 +34,19 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I work on finding allosteric and druggable pockets in viral polymerases,
-        mainly coronavirus RNA-dependent RNA polymerase, using structure
-        prediction and pocket detection.
-
+        I work on finding allosteric and druggable pockets in viral polymerases.
         Before moving to computational work I spent several years in wet labs —
         peptide synthesis, extraction optimization, plant metabolomics.
         
         Feel free to reach out if any of this overlaps with what you do.
     design:
       columns: '1'
+  - block: resume-experience
+    content:
+      username: me
+    design:
+      date_format: 'January 2006'
+      is_education_first: false
   - block: collection
     id: publications
     content:

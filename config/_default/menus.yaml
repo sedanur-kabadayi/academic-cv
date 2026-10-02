@@ -13,3 +13,6 @@ main:
   - name: Conference Papers
     url: /#conference
     weight: 30
+  - name: Experience
+    url: /#experience
+    weight: 15
