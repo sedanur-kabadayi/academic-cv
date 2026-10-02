@@ -37,7 +37,7 @@ sections:
     content:
       username: me
     design:
-      date_format: 'January 2006'
+      date_format: 'Jan 2006'
       is_education_first: true
   - block: markdown
     content:

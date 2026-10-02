@@ -41,11 +41,11 @@ interests:
 education:
   - degree: MSc. Nanoscience and Technology
     institution: Sungkyunkwan University
-    start: 2025
+    start: 2025-09-01
   - degree: BSc. Chemistry
     institution: Yildiz Technical University
-    start: 2019
-    end: 2025
+    start: 2019-09-01
+    end: 2025-02-01
 
 experience:
   - role: Scientific Researcher
