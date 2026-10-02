@@ -16,6 +16,8 @@ sections:
         education: ''
         interests: ''
     design:
+      spacing:
+        padding: [0, 0, 0, 0]
       date_format: '2006-01'
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -30,6 +32,13 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: resume-experience
+    id: experience
+    content:
+      username: me
+    design:
+      date_format: 'January 2006'
+      is_education_first: true
   - block: markdown
     content:
       title: '📚 My Research'
@@ -42,13 +51,6 @@ sections:
         Feel free to reach out if any of this overlaps with what you do.
     design:
       columns: '1'
-  - block: resume-experience
-    id: experience
-    content:
-      username: me
-    design:
-      date_format: 'January 2006'
-      is_education_first: false
   - block: collection
     id: publications
     content:
